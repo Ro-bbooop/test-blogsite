@@ -1,0 +1,8 @@
+body {
+    background-color: darkgray;
+    /*positioning and sizing of picture*/
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
